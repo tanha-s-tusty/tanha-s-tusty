@@ -1,4 +1,4 @@
-# Hi, I'm Tanha S. Tusty 👋
+# Hello, I'm Tanha S. Tusty 👋
 
 CSE undergraduate at Daffodil International University, building backend and database-driven applications while learning software engineering fundamentals through hands-on academic projects.
 
