@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Tanha S. Tusty 👋
 
-<!--
-**tanha-s-tusty/tanha-s-tusty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE undergraduate at Daffodil International University, building backend and database-driven applications while learning software engineering fundamentals through hands-on academic projects.
 
-Here are some ideas to get you started:
+- 🎓 CSE Undergraduate @ Daffodil International University
+- 📍 Dhaka, Bangladesh
+- 🌱 Currently learning: PHP/MySQL application development, C/C++ & compiler design concepts
+- 💬 Ask me about: databases, PHP, C/C++, problem solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 🛟 [ReliefLinkBD](https://github.com/tanha-s-tusty/ReliefLinkBD)
+A web-based Disaster Relief & Aid Distribution Management System that centralizes donor, family, volunteer, camp, stock, and distribution records for coordinating relief operations.
+`PHP` `MySQL` `HTML/CSS`
+
+### 🧮 [Graph-Generator](https://github.com/tanha-s-tusty/Graph-Generator)
+An interactive web app that solves first-order ODEs using the Runge-Kutta 4th Order (RK4) method, with a step-by-step calculation table and solution graph.
+`Python` `Gradio` `Matplotlib`
+
+### 🗂️ [CSV-to-SQL-INSERT-Generator](https://github.com/tanha-s-tusty/CSV-to-SQL-INSERT-Generator)
+A compiler-style CSV-to-SQL converter built with Flex and Bison, performing lexical analysis, parsing, semantic validation, and SQL `INSERT` statement generation.
+`C` `Flex` `Bison`
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · C · C++ · Java · PHP · SQL
+
+**Tools & Concepts:** MySQL · Flex/Bison · Compiler Design · Database Management · Git & GitHub
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanha-tusty)
+
+---
+
+⭐ Thanks for stopping by — feel free to explore my repositories and reach out if you'd like to collaborate!
