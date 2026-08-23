@@ -1,6 +1,6 @@
-# Hello, I'm Tanha S. Tusty 👋
+# 👩🏻‍💻 About me
 
-CSE undergraduate at Daffodil International University, building backend and database-driven applications while learning software engineering fundamentals through hands-on academic projects.
+I am a passionate learner and creative thinker. Currently studying in the Dept. of Computer Science and Engineering at Daffodil International University, building backend and database-driven applications while learning software engineering fundamentals through hands-on academic projects. I also have interest in UI/UX design and Frontend Development. 
 
 - 🎓 CSE Undergraduate @ Daffodil International University
 - 📍 Dhaka, Bangladesh
@@ -25,7 +25,7 @@ A compiler-style CSV-to-SQL converter built with Flex and Bison, performing lexi
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 **Languages:** Python · C · C++ · Java · PHP · SQL
 
@@ -33,7 +33,7 @@ A compiler-style CSV-to-SQL converter built with Flex and Bison, performing lexi
 
 ---
 
-## 📫 Connect with me
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanha-tusty) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tanhatusty1@gmail.com)
 
