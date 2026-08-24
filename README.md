@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:1B4F72&height=200&section=header&text=Hi%20there,%20I'm%20Tanha S. Tusty%20%F0%9F%91%8B&fontSize=40&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:1B4F72&height=200&section=header&text=Hi%20there,%20I'm%20Tanha%20%F0%9F%91%8B&fontSize=40&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Science & Engineering** undergraduate at **Daffodil International University**, passionate about building practical, real-world software solutions. My interest lies at the intersection of **web development (both backend & frontend), databases, problem-solving, ui/ux design**.
+I'm a **Computer Science & Engineering** undergraduate at **Daffodil International University**, passionate about building practical, real-world software solutions. My interest lies at the intersection of **web development(both backend & frontend), databases, problem-solving, ui/ux design**.
 
 - 🎓 BSc in CSE, Daffodil International University (2024 – 2028)
 - ✅ Recently completed **ReliefLinkBD**, a full-stack disaster relief & aid distribution management system
