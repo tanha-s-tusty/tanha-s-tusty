@@ -44,7 +44,7 @@ I'm a **Computer Science & Engineering** undergraduate at **Daffodil Internation
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| ⛑️ [**ReliefLinkBD**](https://github.com/tanha-s-tusty/ReliefLinkBD) | Full-stack disaster relief & aid distribution management system — centralizes donor, family, volunteer, camp, stock, and distribution management for emergency relief operations. Built for CSE312: DBMS Lab. | PHP, MySQL, HTML, CSS |
+| 🛟 [**ReliefLinkBD**](https://github.com/tanha-s-tusty/ReliefLinkBD) | Full-stack disaster relief & aid distribution management system — centralizes donor, family, volunteer, camp, stock, and distribution management for emergency relief operations. Built for CSE312: DBMS Lab. | PHP, MySQL, HTML, CSS |
 | 📈 [**Graph-Generator**](https://github.com/tanha-s-tusty/Graph-Generator) | Web app implementing the 4th-order Runge-Kutta (RK4) method to numerically solve and visualize differential equations. | Python |
 | 🔄 [**CSV-to-SQL-INSERT-Generator**](https://github.com/tanha-s-tusty/CSV-to-SQL-INSERT-Generator) | Validates CSV data and converts it into ready-to-run SQL INSERT statements, reducing manual data-entry errors. | C |
 
