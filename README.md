@@ -56,6 +56,7 @@ I'm a **Computer Science & Engineering** undergraduate at **Daffodil Internation
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanha-s-tusty&theme=react-dark&hide_border=true&area=true" alt="Tanha's Contribution Graph" width="100%"/>
 </p>
 
+<p align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanha-s-tusty&theme=dark&hide_border=true" alt="Tanha's GitHub Streak" height="190"/>
 </p>
