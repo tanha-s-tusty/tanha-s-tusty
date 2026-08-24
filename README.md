@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Computer Science & Engineering** undergraduate at **Daffodil International University**, passionate about building practical, real-world software solutions. My interest lies at the intersection of **web development, databases, and problem-solving**.
+I'm a **Computer Science & Engineering** undergraduate at **Daffodil International University**, passionate about building practical, real-world software solutions. My interest lies at the intersection of **web development (both backend & frontend), databases, problem-solving, ui/ux design**.
 
 - 🎓 BSc in CSE, Daffodil International University
 - ✅ Recently completed **ReliefLinkBD**, a full-stack disaster relief & aid distribution management system
