@@ -69,7 +69,6 @@ I'm a **Computer Science & Engineering** undergraduate at **Daffodil Internation
 - 🎖️ Certificate for Appreciation — TypeTrek Face-Off Speed Typing Contest, DIU Computer & Programming Club (2025)
 - 🎖️ Certificate for Participation — Bangladesh Mathematical Olympiad (BdMO) (2017)
 - 🎖️ Certificate for Participation — National High School Programming Contest (NHSPC), ICT Division (2016)
-- 🎖️ Certificate for Participation — Math Olympiad, Boson Biggan Songho (2018)
 
 ---
 
