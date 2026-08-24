@@ -15,7 +15,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩🏻‍💻 About Me
 
 I'm a **Computer Science & Engineering** undergraduate at **Daffodil International University**, passionate about building practical, real-world software solutions. My interest lies at the intersection of **web development(both backend & frontend), databases, problem-solving, ui/ux design**.
 
@@ -23,7 +23,7 @@ I'm a **Computer Science & Engineering** undergraduate at **Daffodil Internation
 - ✅ Recently completed **ReliefLinkBD**, a full-stack disaster relief & aid distribution management system
 - 🔭 Currently exploring new project ideas in web development and applied computing
 - 🌱 Learning DSA, databases, and modern web development practices
-- 🙋 Volunteered for 3+ years with the Bangladesh Girl Guides' Association
+- 🙋🏻‍♀️ Volunteered for 3+ years with the Bangladesh Girl Guides' Association
 - 🤝 Open to internships, collaborative projects, and learning opportunities
 - 📍 Dhaka, Bangladesh
 
@@ -56,8 +56,7 @@ I'm a **Computer Science & Engineering** undergraduate at **Daffodil Internation
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanha-s-tusty&theme=react-dark&hide_border=true&area=true" alt="Tanha's Contribution Graph" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanha-s-tusty&layout=pie&theme=dark&hide_border=true" alt="Top Languages Pie Chart" height="190"/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanha-s-tusty&theme=dark&hide_border=true" alt="Tanha's GitHub Streak" height="190"/>
 </p>
 
