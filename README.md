@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:1B4F72&height=200&section=header&text=Hi%20there,%20I'm%20Tanha%20%F0%9F%91%8B&fontSize=40&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:1B4F72&height=200&section=header&text=Hey%20there,%20I'm%20Tanha%20%F0%9F%91%8B&fontSize=40&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=CSE+Undergraduate+%40+DIU;Aspiring+Software+Engineer;Web+Developer+%7C+Problem+Solver;Turning+Ideas+Into+Working+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=CSE+Undergraduate+%40+DIU;Aspiring+Software+Engineer;Web+Developer+%7C+Problem+Solver;UI/UX+Designer" alt="Typing SVG" />
 </p>
 
 <p align="center">
